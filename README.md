@@ -7,3 +7,11 @@ Most recommender systems do not take into account what mood you are in when find
 ## Objectives
 1. Create a content based recommender
 2. Incorporate reviews to create descriptions of the films
+
+
+## Directory Layout
+#### MVP
+A simple content based recommender using movie metadata.
+
+#### SVD
+An investigation of the latent features found in SVD Recommender systems.
